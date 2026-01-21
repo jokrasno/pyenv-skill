@@ -2,7 +2,7 @@
 
 A Claude Code skill that helps manage Python versions using **pyenv** (Linux/macOS) and **pyenv-win** (Windows).
 
-Credit to (pyenv)[https://github.com/pyenv/pyenv], it's a fantastic project
+Credit to [pyenv](https://github.com/pyenv/pyenv), it's a fantastic project
 
 ## What is pyenv?
 
